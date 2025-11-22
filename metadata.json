@@ -1,0 +1,5 @@
+{
+  "name": "Project Odyssey",
+  "description": "A multi-agent travel planning application using the Blackboard Architecture. It simulates a team of AI agents (Strategist, Logistics, Planner, Auditor) to generate detailed itineraries with budget and calorie constraints.",
+  "requestFramePermissions": []
+}
